@@ -1,0 +1,2 @@
+# AutoGhost
+Ghostery automation repo
